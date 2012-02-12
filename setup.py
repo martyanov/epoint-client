@@ -8,7 +8,7 @@ requires = [
 
 setup(name='epoint.client',
       version=version,
-      description='Bob is selling various physical and digital goods over http/https',
+      description='ePoint client library',
       author='Andrey Martyanov',
       author_email='andrey@martyanov.com',
       url='https://www.epointsystem.org/trac/vending_machine/wiki/WebShop',
